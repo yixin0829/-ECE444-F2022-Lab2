@@ -11,3 +11,17 @@ ECE444 Software Engineering Lab 2 - Flask. This repo is a clone of https://githu
 ![image](https://user-images.githubusercontent.com/56566212/192000221-0e9e8ff1-481f-4395-b036-83c0cffa2016.png)
 
 ## Activity 4: Web Form (WIP)
+### 4.2  
+Note: used a new route `/form` for this activity
+![image](https://user-images.githubusercontent.com/56566212/192039620-077f45c8-4417-4783-abd2-a17f3c3329f7.png)
+
+### 4.3  
+![image](https://user-images.githubusercontent.com/56566212/192038092-a4907aff-c997-4885-a37c-e0029a2f53ed.png)
+
+### 4.4
+I included validations for '@' but not 'utoronto' to match both lab screenshot (shows '@') and lab instrucution (told us to only include 'utoronto'). I created a **custom validation class** called `RegValidator` which will take field.data and use it in the error message.
+![image](https://user-images.githubusercontent.com/56566212/192040567-4fd6252f-7dc0-44a1-aca9-db9407924ba8.png)
+
+### 4.5
+![image](https://user-images.githubusercontent.com/56566212/192045427-022f23c9-9d3b-48c5-99a0-84f266d3c366.png)
+
