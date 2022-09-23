@@ -7,4 +7,7 @@ ECE444 Software Engineering Lab 2 - Flask. This repo is a clone of https://githu
 ## Activity 2: Textbook Examples
 ![image](https://user-images.githubusercontent.com/56566212/191983489-7a459585-0b27-446b-8269-2b69e68f3baa.png)
 
+## Activity 3: Moment + Bootstrap
+![image](https://user-images.githubusercontent.com/56566212/192000221-0e9e8ff1-481f-4395-b036-83c0cffa2016.png)
 
+## Activity 4: Web Form (WIP)
