@@ -42,6 +42,7 @@
   {% endfor %}
   <div class="page-header">
     <h1>Hello, {% if name %}{{ name }}{% else %}Stranger{% endif %}!</h1>
+    <h1>{% if email and ut_email_f==1 %}Your UofT email is {{ email }}{% elif email and ut_email_f==0 %}Please use your UofT email.{% endif %}</h1>
   </div>
   {{ wtf.quick_form(form) }}
 </div>
